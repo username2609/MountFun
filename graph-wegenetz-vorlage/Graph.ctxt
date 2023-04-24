@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Graph
+comment1.params=m
+comment1.target=Graph(int)
+comment2.params=k
+comment2.target=void\ knotenEinfuegen(Knoten)
+comment3.params=i\ j
+comment3.target=void\ kanteEinfuegen(int,\ int)
+comment4.params=index
+comment4.target=Knoten\ getKnoten(int)
+comment5.params=
+comment5.target=void\ matrixAusgeben()
+comment6.params=i\ j
+comment6.target=java.lang.String\ matrixElementSchreiben(int,\ int)
+numComments=7

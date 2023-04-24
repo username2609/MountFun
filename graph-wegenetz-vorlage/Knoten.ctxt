@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Knoten
+comment1.params=in
+comment1.target=Knoten(Datenelement)
+comment2.params=
+comment2.target=Datenelement\ getInhalt()
+comment3.params=
+comment3.target=void\ getDaten()
+numComments=4
