@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Controller
+comment1.params=
+comment1.target=Controller()
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ stop()
+comment4.params=e
+comment4.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment5.params=e
+comment5.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment6.params=e
+comment6.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment7.params=
+comment7.target=void\ verunfallt()
+comment8.params=
+comment8.target=void\ updateSpielfigur()
+comment9.params=
+comment9.target=void\ updateHindernis()
+numComments=10

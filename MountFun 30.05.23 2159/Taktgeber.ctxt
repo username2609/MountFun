@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Taktgeber
+comment1.params=tickgeschwindigkeit
+comment1.target=Taktgeber(int)
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=void\ stop()
+comment5.params=tickgeschwindigkeit
+comment5.target=void\ settickgeschwindigkeit(int)
+numComments=6
