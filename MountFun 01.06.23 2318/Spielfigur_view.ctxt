@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Spielfigur_view
+comment1.params=panel\ Dateipfad\ x\ y
+comment1.target=Spielfigur_view(javax.swing.JPanel,\ java.lang.String,\ int,\ int)
+comment2.params=XNeu
+comment2.target=void\ spielfigurAktualisieren(int)
+numComments=3
