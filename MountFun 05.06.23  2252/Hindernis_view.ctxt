@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Hindernis_view
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Hindernis_model.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=Hindernis_view()
+comment2.params=yNeu
+comment2.target=void\ setY(int)
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=
+comment5.target=int\ getBreite()
+comment6.params=
+comment6.target=int\ getH\u00F6he()
+comment7.params=yNeu
+comment7.target=void\ ortSetzen(int)
+comment8.params=
+comment8.target=Hindernis_model\ getModel()
+numComments=9

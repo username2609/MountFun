@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Spielfigur_view
+comment1.params=panel\ Dateipfad\ x\ y\ s
+comment1.target=Spielfigur_view(javax.swing.JPanel,\ java.lang.String,\ int,\ int,\ Spielfigur_model)
+comment2.params=xNeu\ yNeu
+comment2.target=void\ spielfigurPositionAktualisieren(int,\ int)
+comment2.text=public\ void\ bildLinks(){\ //zieht\ eventuell\ sehr\ viel\ Leistung\r\n\ \ \ \ \ \ \ \ ImageIcon\ icon\ \=\ new\ ImageIcon(Dateipf\ +\ "Pinguin_links.png");\r\n\ \ \ \ \ \ \ \ Image\ Bild\ \=\ icon.getImage().getScaledInstance(255,\ 255,\ Image.SCALE_SMOOTH);\r\n\ \ \ \ \ \ \ \ ImageIcon\ skaliertesBild\ \=\ new\ ImageIcon(Bild);\r\n\ \ \ \ \ \ \ \ l1\ \=\ new\ JLabel(skaliertesBild);\r\n\ \ \ \ \ \ \ \ l1.setBounds(x,\ y,\ icon.getIconWidth(),\ icon.getIconHeight());\r\n\r\n\ \ \ \ \ \ \ \ panel.add(l1);\r\n\ \ \ \ \ \ \ \ panel.revalidate();\r\n\ \ \ \ \ \ \ \ panel.repaint();\r\n\ \ \ \ }\r\n\ \ \ \ public\ void\ bildRechts(){\r\n\ \ \ \ \ \ \ \ ImageIcon\ icon\ \=\ new\ ImageIcon(Dateipf\ +\ "Pinguin_rechts.png");\r\n\ \ \ \ \ \ \ \ Image\ Bild\ \=\ icon.getImage().getScaledInstance(255,\ 255,\ Image.SCALE_SMOOTH);\r\n\ \ \ \ \ \ \ \ ImageIcon\ skaliertesBild\ \=\ new\ ImageIcon(Bild);\r\n\ \ \ \ \ \ \ \ l1\ \=\ new\ JLabel(skaliertesBild);\r\n\ \ \ \ \ \ \ \ l1.setBounds(x,\ y,\ icon.getIconWidth(),\ icon.getIconHeight());\r\n\r\n\ \ \ \ \ \ \ \ panel.add(l1);\r\n\ \ \ \ \ \ \ \ panel.revalidate();\r\n\ \ \ \ \ \ \ \ panel.repaint();\r\n}
+numComments=3
