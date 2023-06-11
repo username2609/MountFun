@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=H\u00FCtte_view
+comment1.params=panel\ Dateipfad\ x\ y\ hmNeu
+comment1.target=H\u00FCtte_view(javax.swing.JPanel,\ java.lang.String,\ int,\ int,\ H\u00FCtte_model)
+comment2.params=
+comment2.target=Hindernis_model\ getModel()
+comment3.params=yNeu
+comment3.target=void\ ortSetzen(int)
+numComments=4
