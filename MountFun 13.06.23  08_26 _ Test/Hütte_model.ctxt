@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=H\u00FCtte_model
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ H\u00FCtte_model.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=xNeu
+comment1.target=H\u00FCtte_model(int)
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=hb
+comment3.target=void\ anmelden(Hindernisbeobachter)
+numComments=4

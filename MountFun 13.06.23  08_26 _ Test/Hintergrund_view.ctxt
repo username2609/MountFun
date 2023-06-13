@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Hintergrund_view
+comment1.params=panel\ Dateipfad
+comment1.target=Hintergrund_view(javax.swing.JPanel,\ java.lang.String)
+numComments=2
