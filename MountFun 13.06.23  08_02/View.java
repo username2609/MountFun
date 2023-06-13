@@ -50,16 +50,16 @@ public class View extends JComponent implements Figurenbeobachter,Hindernisbeoba
     }
 
     public void HintergrundFestlegen(){
-        ImageIcon icon =new ImageIcon(Dateipfad + "intergrund.png");
+        ImageIcon icon =new ImageIcon(Dateipfad + "Hintergrund.png");
         JLabel l1 = new JLabel(icon);
         l1.setBounds(0, 0, icon.getIconWidth(), icon.getIconHeight()); // Position festlegen
         System.out.println(Dateipfad);
-        panel = new JPanel();
         panel.setLayout(null);
         panel.add(l1);
         fenster.setContentPane(panel);
         fenster.setVisible(true);
         highscore =new Highscore_view(panel);
+        
        
     }
 
