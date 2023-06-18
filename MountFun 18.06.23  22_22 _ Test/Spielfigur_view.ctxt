@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Spielfigur_view
+comment1.params=panelNeu\ Dateipfad\ x\ y\ s
+comment1.target=Spielfigur_view(javax.swing.JLayeredPane,\ java.lang.String,\ int,\ int,\ Spielfigur_model)
+comment2.params=
+comment2.target=void\ bildLinks()
+comment3.params=
+comment3.target=void\ bildRechts()
+comment4.params=xNeu\ yNeu
+comment4.target=void\ spielfigurPositionAktualisieren(int,\ int)
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Highscore_view
+comment1.params=panel
+comment1.target=Highscore_view(javax.swing.JLayeredPane)
+comment2.params=h
+comment2.target=void\ highscoreSetzen(int)
+numComments=3
