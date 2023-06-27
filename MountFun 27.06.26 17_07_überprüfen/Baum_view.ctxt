@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Baum_view
+comment1.params=panel\ Dateipfad\ x\ y
+comment1.target=Baum_view(javax.swing.JLayeredPane,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=javax.swing.JLabel\ getL1()
+comment3.params=yNeu
+comment3.target=void\ ortSetzen(int)
+comment4.params=
+comment4.target=void\ baumNachObenR\u00FCcken()
+comment5.params=
+comment5.target=int\ getY()
+numComments=6
