@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GameOver_view
+comment1.params=panel\ Dateipfad\ x\ y
+comment1.target=GameOver_view(javax.swing.JLayeredPane,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Konstruktor\ der\ Klasse\ GameOver_view\r\n\ \ das\ Bild\ wird\ erzeugt\ und\ in\ den\ Vordergrund\ ger\u00FCckt\r\n\ @param\ panel\ ist\ f\u00FCr\ die\ Reihenfolge\ der\ Bild\ \u00FCbereinander\ zust\u00E4ndig.POPUP_LAYER\ sorgt\ daf\u00FCr,\ dass\ das\ Bild\ im\ Vordergrund\ ist\r\n\ @param\ Dateinpfad\ ist\ in\ der\ Klasse\ View\ deklariert,\ somit\ muss\ dieser\ nicht\ mehrfach\ eingegeben\ werden\ und\ nur\ der\ Dateienname\ der\ Bilddatei\ erg\u00E4nzt\ werden\r\n\ @param\ x\ X-Koordinate\ des\ GameOver-Schriftzugs\r\n\ @param\ y\ Y-Koordinate\ des\ GameOver-Schriftzugs\r\n
+numComments=2
