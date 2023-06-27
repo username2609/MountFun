@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=M\u00FCnze_model
+comment1.params=xNeu
+comment1.target=M\u00FCnze_model(int)
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=hb
+comment3.target=void\ anmelden(Hindernisbeobachter)
+numComments=4

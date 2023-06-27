@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Slalomfahne_view
+comment1.params=panel\ Dateipfad\ x\ y\ smNeu
+comment1.target=Slalomfahne_view(javax.swing.JLayeredPane,\ java.lang.String,\ int,\ int,\ Slalomfahne_model)
+comment2.params=
+comment2.target=javax.swing.JLabel\ getL1()
+comment3.params=
+comment3.target=Hindernis_model\ getModel()
+comment4.params=yNeu
+comment4.target=void\ ortSetzen(int)
+numComments=5
