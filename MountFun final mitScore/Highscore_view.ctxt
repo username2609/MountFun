@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Highscore_view
+comment1.params=panel\ Dateipfad
+comment1.target=Highscore_view(javax.swing.JLayeredPane,\ java.lang.String)
+comment2.params=h
+comment2.target=void\ punktestandSetzen(int)
+numComments=3
